@@ -1,0 +1,11 @@
+---
+  navLinks:
+    - title: Timeline
+      path: /
+      is_public: true
+    - title: FAQ
+      path: /faq
+      is_public: true
+    - title: Newsletter
+      path: /newsletter
+      is_public: true
