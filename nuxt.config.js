@@ -11,13 +11,13 @@ export default {
   },
 
   // uncomment the lines below if you are deploying to GitHub pages
-  // router: {
-  //   base: '/radar/',
-  // },
+  router: {
+   base: '/radar/',
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - Radar | ST21 | TechLabs Berlin',
+    titleTemplate: '%s - Radar | ST21 | TechLabs Mannheim',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
